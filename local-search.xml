@@ -8,7 +8,7 @@
     <link href="/2022/10/17/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/"/>
     <url>/2022/10/17/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</url>
     
-    <content type="html"><![CDATA[<p>​毕业都一年多了，我才开始写第一篇博客，有点汗颜啊。以后争取多写一下有关技术、工作、生活上的心得体会。最后测试一下博客图片展示的功能。</p><figure class="highlight django"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs django"><span class="hljs-template-tag">&#123;% <span class="hljs-name">asset_img</span> ai.jpg 由ai生成的图片 %&#125;</span><br></code></pre></td></tr></table></figure>]]></content>
+    <content type="html"><![CDATA[<p>​毕业都一年多了，我才开始写第一篇博客，有点汗颜啊。以后争取多写一下有关技术、工作、生活上的心得体会。最后测试一下博客图片展示的功能。</p>]]></content>
     
     
     <categories>
