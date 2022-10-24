@@ -4,6 +4,31 @@
   
   
   <entry>
+    <title>对git合并的理解</title>
+    <link href="/2022/10/24/%E5%AF%B9git%E5%90%88%E5%B9%B6%E7%9A%84%E7%90%86%E8%A7%A3/"/>
+    <url>/2022/10/24/%E5%AF%B9git%E5%90%88%E5%B9%B6%E7%9A%84%E7%90%86%E8%A7%A3/</url>
+    
+    <content type="html"><![CDATA[<p>git合并一般有两种方式<code>git merge</code>和<code>git rebase</code>，<code>git rebase</code>一般在自己的本地使用，可以使最终的提交历史变成干净的一条直线。</p>]]></content>
+    
+    
+    <categories>
+      
+      <category>开发工具</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>原创</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>第一篇博客</title>
     <link href="/2022/10/17/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/"/>
     <url>/2022/10/17/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</url>
